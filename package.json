@@ -1,5 +1,5 @@
 {
-	"name": "safe-promise",
+	"name": "ts-safe-promise",
 	"version": "1.0.0",
 	"description": "A lightweight utility to handle promises safely, returning an error or result in a predictable format.",
 	"main": "dist/index.js",
@@ -9,7 +9,7 @@
 	],
 	"keywords": [
 		"promise",
-		"safe-promise",
+		"ts-safe-promise",
 		"error-handling",
 		"async",
 		"typescript",
