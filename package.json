@@ -1,0 +1,30 @@
+{
+	"name": "safe-promise",
+	"version": "1.0.0",
+	"description": "A lightweight utility to handle promises safely, returning an error or result in a predictable format.",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"files": [
+		"dist"
+	],
+	"keywords": [
+		"promise",
+		"safe-promise",
+		"error-handling",
+		"async",
+		"typescript",
+		"try-catch",
+		"await",
+		"promise-utility",
+		"error-catching"
+	],
+	"scripts": {
+		"build": "tsc"
+	},
+	"author": "Lavi Sar",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lavisar/safe-promise"
+	}
+}
