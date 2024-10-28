@@ -20,7 +20,7 @@ yarn add ts-safe-promise
 
 ### Example
 
--   Import catchError and use it to handle async functions without try...catch:
+-   Import safePromise and use it to handle async functions without try...catch:
 
 ```typescript
 import { safePromise } from 'ts-safe-promise';
